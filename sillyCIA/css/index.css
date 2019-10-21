@@ -1,0 +1,25 @@
+html{
+    
+}
+h1{
+    color: green;
+}
+h1,h3{
+   font-family: "Georgia";
+    text-align: center;
+}
+img{
+    float: left;
+}
+p{
+    line-height: 25px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+span{
+    text-transform: uppercase;
+}
